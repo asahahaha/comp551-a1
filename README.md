@@ -1,8 +1,4 @@
-Based on the details provided in the assignment report, here is a template for a README file for the GitHub repository named "comp551_a1" which focuses on KNN & DT implementations on Health data:
-
----
-
-# comp551_a1: KNN & DT Implementations on Health Data
+# COMP 551 Applied Machine Learning Course Project: Self-implemented KNN & DT Algorithms on Health Data
 
 ## Overview
 
@@ -19,39 +15,6 @@ This repository contains the implementation of two essential machine learning al
 - **K-Nearest Neighbors (KNN)**: A non-parametric method used for classification and regression. The KNN implementation in this repository explores various distance metrics and 'k' values to optimize performance.
 
 - **Decision Trees (DT)**: A tree-like model of decisions where each node represents a test on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label. The DT implementation focuses on selecting the best attribute splits based on different cost functions to build an optimal tree.
-
-## Requirements
-
-- Python 3.x
-- Libraries: NumPy, pandas, scikit-learn, matplotlib
-
-## Installation
-
-Clone this repository to your local machine:
-
-```
-git clone https://github.com/yourusername/comp551_a1.git
-```
-
-Navigate to the cloned repository:
-
-```
-cd comp551_a1
-```
-
-## Usage
-
-To run the KNN implementation on the NHANES dataset:
-
-```
-python knn_nhanes.py
-```
-
-To run the DT implementation on the Breast Cancer Wisconsin dataset:
-
-```
-python dt_cancer.py
-```
 
 ## Results
 
