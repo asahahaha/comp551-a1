@@ -29,7 +29,3 @@ Our findings indicate that both KNN and DT algorithms perform significantly well
 ## Citations
 
 Refer to the `Citations` section in the `KNN_DT.pdf` for detailed references and sources utilized in this project.
-
----
-
-Feel free to adjust the content as needed based on additional details or specific requirements for your repository.
